@@ -1,0 +1,60 @@
+EPMEJ & PEUMEU MONIQUE - HERON SQUARE ROOT LIBRARY
+DUAL LICENSE (ACADEMIC / NON-COMMERCIAL & COMMERCIAL LICENSE)
+
+Copyright (c) 2026 Djempe James (Independent Researcher)
+Contact: epmejd@gmail.com | Tel: +237 697 778 96
+All rights reserved.
+
+This software and accompanying documentation (the "Software"), implementing the 
+Epmej & Peumeu Monique Decomposition combined with the Heron (Babylonian) method, 
+is provided under a Dual Licensing model:
+
+================================================================================
+PART I: ACADEMIC, EDUCATIONAL, AND NON-COMMERCIAL RESEARCH LICENSE
+================================================================================
+
+Permission is hereby granted, free of charge, to any academic institution, 
+university researcher, student, or individual strictly for non-commercial 
+scientific research, educational purposes, and peer-reviewed benchmarking, 
+subject to the following mandatory conditions:
+
+1. ATTRIBUTION & CITATION: Any publication, software derivative, benchmark, or 
+   presentation utilizing this Software or its underlying mathematical framework 
+   must explicitly credit the author ("Djempe James") and cite the foundational 
+   work: "An Analytical and Iterative Framework for Efficient Square Root 
+   Computation: The Epmej & Peumeu Monique Decomposition Combined with the 
+   Old-Babylonian Method" (2026).
+
+2. NO COMMERCIAL EXPLOITATION: Use of the Software in commercial products, 
+   proprietary firmware, embedded hardware devices, commercial SDKs, or for-profit 
+   services is strictly prohibited under Part I.
+
+3. PRESERVATION OF NOTICE: The above copyright notice and this permission notice 
+   shall be included in all copies or substantial portions of the Software.
+
+================================================================================
+PART II: COMMERCIAL & INDUSTRIAL INTEGRATION LICENSE
+================================================================================
+
+Any entity, corporation, semiconductor manufacturer, or developer wishing to 
+integrate, distribute, sublicense, or embed this Software (in source or compiled 
+binary/hardware form) within commercial products, microcontrollers, IoT devices, 
+RTOS distributions, or proprietary applications MUST obtain a separate written 
+Commercial License Agreement from the copyright holder prior to deployment.
+
+To request a commercial license, OEM integration rights, or custom optimization 
+consulting, please contact:
+  Author: Djempe James
+  Email:  epmejd@gmail.com
+  Phone:  +237 697 778 96
+
+================================================================================
+DISCLAIMER OF WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE 
+AUTHOR OR COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, 
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN 
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software or the Epmej & Peumeu Monique decomposition in your research or embedded systems, please cite it using the metadata below."
+type: software
+title: "Epmej & Peumeu Monique + Heron: Deterministic O(1) Square Root Library for FPU-less Microcontrollers"
+version: 1.0.0
+date-released: 2026-11-07
+authors:
+  - family-names: "Djempe"
+    given-names: "James"
+    email: "epmejd@gmail.com"
+    affiliation: "Independent Researcher"
+abstract: >-
+  A zero-dependency C mathematical library implementing the Epmej & Peumeu Monique
+  decomposition combined with localized Heron (Babylonian) iterations for deterministic
+  O(1) floating-point square root computation on FPU-less microcontrollers (ARM Cortex-M0/M0+,
+  AVR ATmega328P, ESP8266). Achieves up to 72.6% CPU cycle and energy reduction while
+  maintaining IEEE 754 double-precision accuracy (< 1.11e-16 relative error).
+keywords:
+  - "square root approximation"
+  - "Epmej & Peumeu Monique property"
+  - "Heron method"
+  - "Babylonian method"
+  - "embedded systems"
+  - "FPU-less microcontrollers"
+  - "numerical analysis"
+  - "IEEE 754"
+  - "low-power IoT"
+license: "MIT"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Djempe"
+      given-names: "James"
+      email: "epmejd@gmail.com"
+      affiliation: "Independent Researcher"
+  title: "An Analytical and Iterative Framework for Efficient Square Root Computation: The Epmej & Peumeu Monique Decomposition Combined with the Old-Babylonian Method"
+  year: 2026
+  month: 11
+  abstract: >-
+    Formalizes the Epmej & Peumeu Monique Property (Y = x^2 + m with x >= 1 and x >= 2|m|)
+    to derive a deterministic initialization vector for the Heron method, eliminating native
+    hardware SQRT calls and reducing energy consumption by 69.6% to 72.6% on FPU-less MCUs.
